@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DanhSachSach>
+    <Sach maSach="1">
+        <tenSach>Giải Tích 12</tenSach>
+        <theLoai>Sách giáo khoa</theLoai>
+        <nhaXuatBan>NXB Giáo Dục</nhaXuatBan>
+        <giaBia>45000.0</giaBia>
+        <dangMuon>true</dangMuon>
+    </Sach>
+    <Sach maSach="2">
+        <tenSach>Lập Trình Hướng Đối Tượng Java</tenSach>
+        <theLoai>Giáo trình</theLoai>
+        <nhaXuatBan>NXB Khoa Học Kỹ Thuật</nhaXuatBan>
+        <giaBia>125000.0</giaBia>
+        <dangMuon>true</dangMuon>
+    </Sach>
+    <Sach maSach="3">
+        <tenSach>Dế Mèn Phiêu Lưu Ký</tenSach>
+        <theLoai>Tiểu thuyết</theLoai>
+        <nhaXuatBan>NXB Kim Đồng</nhaXuatBan>
+        <giaBia>65000.0</giaBia>
+        <dangMuon>false</dangMuon>
+    </Sach>
+    <Sach maSach="4">
+        <tenSach>Cấu Trúc Dữ Liệu &amp; Giải Thuật</tenSach>
+        <theLoai>Tin học</theLoai>
+        <nhaXuatBan>NXB Đại Học Quốc Gia</nhaXuatBan>
+        <giaBia>180000.0</giaBia>
+        <dangMuon>false</dangMuon>
+    </Sach>
+</DanhSachSach>

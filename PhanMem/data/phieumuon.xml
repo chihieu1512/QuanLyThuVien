@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DanhSachPhieuMuon>
+    <PhieuMuon maPhieu="1">
+        <maDocGia>1</maDocGia>
+        <maSach>1</maSach>
+        <ngayMuon>04/11/2026</ngayMuon>
+        <hanTra>11/11/2026</hanTra>
+        <ngayTra/>
+    </PhieuMuon>
+    <PhieuMuon maPhieu="2">
+        <maDocGia>2</maDocGia>
+        <maSach>2</maSach>
+        <ngayMuon>01/11/2026</ngayMuon>
+        <hanTra>15/11/2026</hanTra>
+        <ngayTra/>
+    </PhieuMuon>
+</DanhSachPhieuMuon>

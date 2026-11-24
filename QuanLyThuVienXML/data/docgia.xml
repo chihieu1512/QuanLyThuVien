@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DanhSachDocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="1">
+        <hoTen>Nguyễn Văn An</hoTen>
+        <soCCCD>001208001122</soCCCD>
+        <soDienThoai>0912345678</soDienThoai>
+        <lopHoacDonVi>12A1</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Giáo viên" maDocGia="2">
+        <hoTen>Trần Thị Lan</hoTen>
+        <soCCCD>001185003344</soCCCD>
+        <soDienThoai>0987654321</soDienThoai>
+        <lopHoacDonVi>Tổ Toán - Tin</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="3">
+        <hoTen>Lê Hoàng Nam</hoTen>
+        <soCCCD>001209005566</soCCCD>
+        <soDienThoai>0905112233</soDienThoai>
+        <lopHoacDonVi>11B2</lopHoacDonVi>
+    </DocGia>
+</DanhSachDocGia>

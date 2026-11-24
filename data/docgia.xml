@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DanhSachDocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="1">
+        <hoTen>Nguyễn Văn An</hoTen>
+        <soCCCD>001208001122</soCCCD>
+        <soDienThoai>0912345678</soDienThoai>
+        <lopHoacDonVi>12A1</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Giáo viên" maDocGia="2">
+        <hoTen>Trần Thị Lan</hoTen>
+        <soCCCD>001185003344</soCCCD>
+        <soDienThoai>0987654321</soDienThoai>
+        <lopHoacDonVi>Tổ Toán - Tin</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="3">
+        <hoTen>Lê Hoàng Nam</hoTen>
+        <soCCCD>001209005566</soCCCD>
+        <soDienThoai>0905112233</soDienThoai>
+        <lopHoacDonVi>11B2</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="4">
+        <hoTen>Phạm Minh Anh</hoTen>
+        <soCCCD>001308004411</soCCCD>
+        <soDienThoai>0934567890</soDienThoai>
+        <lopHoacDonVi>12A2</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="5">
+        <hoTen>Hoàng Đức Duy</hoTen>
+        <soCCCD>024209007788</soCCCD>
+        <soDienThoai>0978123456</soDienThoai>
+        <lopHoacDonVi>11A1</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Giáo viên" maDocGia="6">
+        <hoTen>Vũ Quang Huy</hoTen>
+        <soCCCD>001082009900</soCCCD>
+        <soDienThoai>0918223344</soDienThoai>
+        <lopHoacDonVi>Tổ Vật Lý - Công Nghệ</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="7">
+        <hoTen>Đỗ Thu Hà</hoTen>
+        <soCCCD>001310002233</soCCCD>
+        <soDienThoai>0365987412</soDienThoai>
+        <lopHoacDonVi>10A3</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="8">
+        <hoTen>Bùi Tuấn Kiệt</hoTen>
+        <soCCCD>024208006655</soCCCD>
+        <soDienThoai>0389456123</soDienThoai>
+        <lopHoacDonVi>12D1</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Giáo viên" maDocGia="9">
+        <hoTen>Nguyễn Thị Mai Hương</hoTen>
+        <soCCCD>001188001234</soCCCD>
+        <soDienThoai>0904778899</soDienThoai>
+        <lopHoacDonVi>Tổ Ngữ Văn</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="10">
+        <hoTen>Ngô Gia Bảo</hoTen>
+        <soCCCD>001210008899</soCCCD>
+        <soDienThoai>0868112244</soDienThoai>
+        <lopHoacDonVi>10C2</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="11">
+        <hoTen>Đặng Khánh Linh</hoTen>
+        <soCCCD>001309003322</soCCCD>
+        <soDienThoai>0945667788</soDienThoai>
+        <lopHoacDonVi>11D3</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Giáo viên" maDocGia="12">
+        <hoTen>Trịnh Văn Hùng</hoTen>
+        <soCCCD>024080005544</soCCCD>
+        <soDienThoai>0913556677</soDienThoai>
+        <lopHoacDonVi>Tổ Lịch Sử - Địa Lý</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="13">
+        <hoTen>Lý Minh Khôi</hoTen>
+        <soCCCD>001208009911</soCCCD>
+        <soDienThoai>0356789123</soDienThoai>
+        <lopHoacDonVi>12A4</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Giáo viên" maDocGia="14">
+        <hoTen>Phan Thị Thanh Tâm</hoTen>
+        <soCCCD>001190006677</soCCCD>
+        <soDienThoai>0982334455</soDienThoai>
+        <lopHoacDonVi>Tổ Ngoại Ngữ</lopHoacDonVi>
+    </DocGia>
+    <DocGia loaiDocGia="Học sinh" maDocGia="15">
+        <hoTen>Dương Ngọc Ánh</hoTen>
+        <soCCCD>001310007711</soCCCD>
+        <soDienThoai>0852998877</soDienThoai>
+        <lopHoacDonVi>10B1</lopHoacDonVi>
+    </DocGia>
+</DanhSachDocGia>
